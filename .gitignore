@@ -1,5 +1,6 @@
 /chat_virtual_backend/node_modules
 /chat_virtual_backend/config.env
+/chat_virtual_backend/credentials.json
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
