@@ -1,0 +1,16 @@
+.dashboard {
+  height: 100vh;
+}
+
+.chat-container {
+  border-right: 1px solid #ebe5de;
+  height: 100%;
+  overflow: hidden;
+}
+
+.activity-container {
+  height: 100%;
+  overflow: auto;
+  padding: 20px;
+  box-sizing: border-box;
+}
